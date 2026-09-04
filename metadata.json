@@ -1,0 +1,6 @@
+{
+  "name": "포도당 파트너 (Pododang Partner)",
+  "description": "전문 케어 인력을 위한 맞춤 공고 탐색, 투명한 역경매 입찰 및 스마트 Door-to-Door 수행 관리 파트너 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
